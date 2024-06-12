@@ -1,0 +1,5 @@
+<!-- res/drawable/progress_bar_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000"/> <!-- Cor de fundo da barra de progresso -->
+    <corners android:radius="0dp"/> <!-- Remove os cantos arredondados -->
+</shape>

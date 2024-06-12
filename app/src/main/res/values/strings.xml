@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exzi</string>
+    <string name="book">Book</string>
+    <string name="candles">Candles</string>
+    <string name="graph_activity_error_load_data">Error to load data, please click to retry</string>
+    <string name="graph_activity_load_data">Loading data!</string>
+</resources>
